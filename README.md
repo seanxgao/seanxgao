@@ -41,22 +41,11 @@ Spectral clustering toolkit:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanxgao&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanxgao&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## Outside of code
 
 - Rock band vocalist
-- Coffee + late-night debugging
+- Fishing in Puget Sound
 - Trying to write clearer math / ML notes
 
-> Always happy to chat about math, ML systems, or audio.
+> Always happy to chat about math, ML systems, or Crazy ideas.
 
