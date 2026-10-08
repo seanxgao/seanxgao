@@ -2,6 +2,7 @@
 
 > Math & ML grad student · Building VAD / retrieval / graph projects
 
+- M.S. in Financial Engineering @ NYU (2028)
 - M.S. in Mathematics @ UW (2026)
 - Interests: Spectral graph theory, ML systems, audio ML
 - Currently hacking on:
